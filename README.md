@@ -10,5 +10,5 @@
 - Learn JavaScript and build some cool projects with it 💻
 - Contribute something to open source 📂
 - Improve Language & Communication skills ✊
-- Integrate ***minimalsim*** into my life.
+- ~~~Integrate ***minimalsim*** into my life.~~~
 - Cold showerrrss 🚿

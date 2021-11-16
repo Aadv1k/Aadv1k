@@ -1,15 +1,15 @@
-# Hey there, this is Aadvik.
+# hello;
+Not much to say about me other than the fact that im your average enjoyer, not a fan, not a hater; just an enjoyer, same goes for everything else I do here.
+ 
+# Stuff i know;
+- Python 🐍
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="15"/>
+- Vim 🐱‍💻 
 
-- 🌱 Currently having a bit of fun with [moviepy]('https://zulko.github.io/moviepy/').
-- 💬 Feel free to ask me about Python.
-- 📫 You can reach me via [Twitter](https://twitter.com/aadv1k) or [Email](mailto:aadv1k@outlook.com)
+# Stuff i do;
+- Automate stuff with python.
+- _ricing_ my (neo)vim setup
+- Chilling out on cssbattle.dev by hard coding every element
+- Bicker about the _bloated modern web_ as an excuse to my bad css skills. 
 
-## Goals for 2021 🎯 :
-- ~~Reading more books 📚~~ its an improvement from not reading to two books in 4 months.
-    - Digital minimalism 
-    - Power of habit
-- Learn JavaScript and build some cool projects with it 💻
-- ~~Contribute something to open source 📂~~ created two repos of my code which is still an improvement.
-- ~~Improve Language & Communication skills ✊~~
-- ~~Integrate ***minimalsim*** into my life.~~
-- Cold showerrrss 🚿
+Feel free to argue with me about the _bloated modern web_ on my [Twitter](https://twitter.com/aadv1k) or [Email](mailto:aadv1k@outlook.com)

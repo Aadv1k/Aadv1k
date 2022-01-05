@@ -1,15 +1,15 @@
-# hello;
-Not much to say about me other than the fact that im your average enjoyer, not a fan, not a hater; just an enjoyer, same goes for everything else I do here.
+# hello
+Hey, it's Aadvik, I enjoy creating and exploring new things; life is too short to do it all but I am trying my best.
  
-# Stuff i know;
-- Python 🐍
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="15"/>
-- Vim 🐱‍💻 
+# Tech I know
+- Python
+- JavaScript
+- Lua
 
-# Stuff i do;
-- Automate stuff with python.
+# What I do
+- Automating tasks with python
 - _ricing_ my (neo)vim setup
-- Chilling out on cssbattle.dev by hard coding every element
-- Bicker about the _bloated modern web_ as an excuse to my bad css skills. 
+- [Writing about books and life](https://medium.com/@aadv1k)
+- Bickering about the _bloated modern web_.
 
 Feel free to argue with me about the _bloated modern web_ on my [Twitter](https://twitter.com/aadv1k) or [Email](mailto:aadv1k@outlook.com)

@@ -1,14 +1,18 @@
-Hi, I am Aadvik, just someone from **India** who happens to be interested in techy things, such as 
-- Hacking up my [vimrc](https://gist.github.com/Aadv1k/ec7dbe9e0d2ef5c50c9613020503527c) and developing plugins for **vim**.
-- Building sites for the **world wide web**, that are responsive and *sassy* 💅. 
-- Constantly trying to automate those mundane tasks w/ **python**. 
-- Learning and filling up my brain with ***tech jargon*** everyday (except weekends). 
-- Trying to put whatever *crackbrained* idea that my brain comes up with into code.  
+# Who am I?
+- Contributer to the ever growing internet by developing half-baked websites
+- Author behind random articles and stories on [aadv1k.netlify.app](http://aadv1k.netlify.app/)
+- Perpetually curious about everything in the world
+- A neo(vim) fanatic.
 
-### Some of the things I have done
-- [Reddit text to speech gui](https://github.com/Aadv1k/reddit-tts-gui) - A **gui program** to generate text to speech videos from reddit. 
-- [gdoc.vim](https://github.com/Aadv1k/gdoc.vim) - A **vim plugin** that provides google docs integration. 
-- [schoolOS API Wrapper](https://github.com/Aadv1k/schoolOS-api-wrapper) - An **unofficial Api wrapper** made for [schoolOS](https://www.toppr.school/).
+### Currently working upon
+- Learning frontend technologies by build projects at [frontend-projects](https://github.com/aadv1k/frontend-projects)
+- Watching for issues/suggestions/discussions on all of my existing repos.
 
 ### Interested in reaching out? 
 Sure! Let's have a chit-chat via [***Twitter***](https://twitter.com/aadv1k) or [***Email***](mailto:aadv1k@outlook.com)
+
+---
+
+A monologue about my journey...<br>
+I first stumbled across programming when I was scrolling through youtube, around 2019 was when I wrote my first line of code in python. It all went up from there, eventually I transitioned onto web development simple because I wanted everyone to see the sites I built.
+It was in 2021 when I created my github profile and started my open source journy by creating some projects. managing school alongside my evergrowing "obsession" with programming was hard, but I got around it. Currently I am building my frontend skillset by working on projects.

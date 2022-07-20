@@ -1,10 +1,10 @@
-# Who am I?
+### Who am I?
 - Contributer to the ever growing internet by developing half-baked websites
 - Author behind random articles and stories on [aadv1k.netlify.app](http://aadv1k.netlify.app/)
 - Perpetually curious about everything in the world
 - A neo(vim) fanatic.
 
-### Currently working upon
+### Currently I am...
 - Learning frontend technologies by build projects at [frontend-projects](https://github.com/aadv1k/frontend-projects)
 - Watching for issues/suggestions/discussions on all of my existing repos.
 

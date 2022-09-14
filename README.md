@@ -1,18 +1,20 @@
-### Who am I?
-- Contributer to the ever growing internet by developing half-baked websites
-- Author behind random articles and stories on [aadv1k.netlify.app](http://aadv1k.netlify.app/)
-- Perpetually curious about everything in the world
-- A neo(vim) fanatic.
+### About me
 
-### Currently I am...
-- Learning frontend technologies by build projects at [frontend-projects](https://github.com/aadv1k/frontend-projects)
+Hi; the name is Aadvik, I am a developer and OSS-Enthusiast from India. Here is some of the stuff I do 
+
+- Developing frontend-heavy websites using ~~bloatware~~ modern tech-stacks.
+- Occasionally writing stories or blogs at [aadv1k.netlify.app](http://aadv1k.netlify.app/)
+- Using and contributing to [neovim](https://neovim.io/) 
+- Learning about all the awesomeness in the world
+
+### Current me
+
+- Developing [kevlar](https://github.com/kevlar) a yet-another-static-site generator using pure C.
+- ~~Learning frontend technologies by build projects at [frontend-projects](https://github.com/aadv1k/frontend-projects)~~
 - Watching for issues/suggestions/discussions on all of my existing repos.
 
-### Interested in reaching out? 
-Sure! Let's have a chit-chat via [***Twitter***](https://twitter.com/aadv1k) or [***Email***](mailto:aadv1k@outlook.com)
+### Reaching me
 
----
+I check my inbox often, so you can drop me an [Email](mailto:aadv1k@outlook.com)
 
-A monologue about my journey...<br>
-I first stumbled across programming when I was scrolling through youtube, around 2019 was when I wrote my first line of code in python. It all went up from there, eventually I transitioned onto web development simple because I wanted everyone to see the sites I built.
-It was in 2021 when I created my github profile and started my open source journy by creating some projects. managing school alongside my evergrowing "obsession" with programming was hard, but I got around it. Currently I am building my frontend skillset by working on projects.
+or you can reach out via twitter [@aadv1k](https://twitter.com/aadv1k), I don't check it often but would get back to you if I did.

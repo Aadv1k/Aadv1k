@@ -9,7 +9,7 @@ Hi; the name is Aadvik, I am a developer and OSS-Enthusiast from India. Here is 
 
 ### Current me
 
-- Working on [cybernated](https://github.com/aadv1k/cybernated) a customizable crypto newsletter
+- ~~Working on [cybernated](https://github.com/aadv1k/cybernated) a customizable crypto newsletter~~
 - ~~Solving Advent of code 2022 in C 🎄💻~~
 - ~~Working on [memer](https://github.com/aadv1k/memer) a RESTful API to generate memes using vanilla nodejs~~
 - ~~Developing [kevlar](https://github.com/aadv1k/kevlar) a yet-another-static-site generator using pure C.~~

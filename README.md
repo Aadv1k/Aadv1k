@@ -9,7 +9,8 @@ Hi; the name is Aadvik, I am a developer and OSS-Enthusiast from India. Here is 
 
 ### Current me
 
-- [17/02/2023] Working on [Banter](https://github.com/aadv1k/banter) a podcasting platform for creators
+- [29/03/2023] Working on [HashWizard](https://github.com/aadv1k/hashwizard) a suite of tools and APIs to interact with cryptographic hashes
+- ~~[17/02/2023] Working on [Banter](https://github.com/aadv1k/banter) a podcasting platform for creators~~
 - ~~[03/02/2023] Working on [cybernated](https://github.com/aadv1k/cybernated) a customizable crypto newsletter~~
 - ~~Solving Advent of code 2022 in C 🎄💻~~
 - ~~[28/11/2022] Working on [memer](https://github.com/aadv1k/memer) a RESTful API to generate memes using vanilla nodejs~~

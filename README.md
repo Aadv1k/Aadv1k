@@ -9,6 +9,7 @@ Hi; the name is Aadvik, I am a developer and OSS-Enthusiast from India. Here is 
 
 ### Current me
 
+- [03/04/2023] Working on [Quillia][https://github.com/aadv1k/quillia], an EBook publising tool/platform that uses RSA encryption to issue/lend EBooks.
 - ~~[29/03/2023] Working on [HashWizard](https://github.com/aadv1k/hashwizard) a suite of tools and APIs to interact with cryptographic hashes~~
   - Rainbow table implementation from scratch to look up hashes
   - Optimizations for the app under a low memory enviorment via chunking and paging

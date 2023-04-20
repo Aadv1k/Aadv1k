@@ -1,15 +1,19 @@
-### About me
+```
+     __              __        __                     __
+ ___/ /__    _    __/ /  ___ _/ /_  __ _____  __ __  / /__ _  _____
+/ _  / _ \  | |/|/ / _ \/ _ `/ __/ / // / _ \/ // / / / _ \ |/ / -_)
+\_,_/\___/  |__,__/_//_/\_,_/\__/  \_, /\___/\_,_/ /_/\___/___/\__/
+                                  /___/
+```
 
-Hi; the name is Aadvik, I am a developer and OSS-Enthusiast from India. Here is some of the stuff I do 
-
-- Developing frontend-heavy websites using ~~bloatware~~ modern tech-stacks.
+- Building software that reads like an epic and runs like a TESLA.
 - Occasionally writing stories or blogs at [aadv1k.netlify.app](http://aadv1k.netlify.app/)
-- Using and contributing to [neovim](https://neovim.io/) 
-- Learning about all the awesomeness in the world
+- Breaking shit until it works
 
-### Current me
+### Logs
 
-- [14/04/2023] Working on [DracoQL](https://github.com/aadv1k/dracoql) An embeddable query language to fetch and manipulate data
+- [20/04/2023] Working on [Propelr](httpsL://github.com/aadv1k/propelr), a yet-to-be-disclosed webapp
+- ~~[14/04/2023] Working on [DracoQL](https://github.com/aadv1k/dracoql) An embeddable query language to fetch and manipulate data~~Fi
 - ~~[03/04/2023] Working on [Quillia](https://github.com/aadv1k/quillia) , an EBook publising tool/platform that uses RSA encryption to issue/lend EBooks.~~
 - ~~[29/03/2023] Working on [HashWizard](https://github.com/aadv1k/hashwizard) a suite of tools and APIs to interact with cryptographic hashes~~
   - Rainbow table implementation from scratch to look up hashes
@@ -32,7 +36,7 @@ Hi; the name is Aadvik, I am a developer and OSS-Enthusiast from India. Here is 
 - ~~Learning frontend technologies by build projects at [frontend-projects](https://github.com/aadv1k/frontend-projects)~~
 - Watching for issues/suggestions/discussions on all of my existing repos.
 
-### Reaching me
+### Contact
 
 I check my inbox often, so you can drop me an [Email](mailto:aadv1k@outlook.com)
 

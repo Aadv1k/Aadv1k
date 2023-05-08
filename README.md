@@ -12,7 +12,7 @@
 
 ### Logs
 
-- [20/04/2023] Working on [Propelr](httpsL://github.com/aadv1k/propelr), a yet-to-be-disclosed webapp
+- ~~[20/04/2023] Working on [propelr](https://github.com/aadv1k/propelr), a customizable web scraper for humans~~
 - ~~[14/04/2023] Working on [DracoQL](https://github.com/aadv1k/dracoql) An embeddable query language to fetch and manipulate data~~Fi
 - ~~[03/04/2023] Working on [Quillia](https://github.com/aadv1k/quillia) , an EBook publising tool/platform that uses RSA encryption to issue/lend EBooks.~~
 - ~~[29/03/2023] Working on [HashWizard](https://github.com/aadv1k/hashwizard) a suite of tools and APIs to interact with cryptographic hashes~~

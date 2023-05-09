@@ -12,6 +12,7 @@
 
 ### Logs
 
+- [09/05/2023] Implementing a common lisp interpreter within common lisp, [check it out](https://github.com/aadv1k/lisp-in-lisp)
 - ~~[20/04/2023] Working on [propelr](https://github.com/aadv1k/propelr), a customizable web scraper for humans~~
 - ~~[14/04/2023] Working on [DracoQL](https://github.com/aadv1k/dracoql) An embeddable query language to fetch and manipulate data~~Fi
 - ~~[03/04/2023] Working on [Quillia](https://github.com/aadv1k/quillia) , an EBook publising tool/platform that uses RSA encryption to issue/lend EBooks.~~

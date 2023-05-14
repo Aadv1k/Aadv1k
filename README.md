@@ -12,9 +12,9 @@
 
 ### Logs
 
-- ~~[11/05/2023] Building [ZapMail ⚡](https://github.com/aadv1k/zap) a simple yet powerful email platform built using Node and Redis~~
+- ~~[11/05/2023] Building [ZapMail](https://github.com/aadv1k/zap) a simple yet powerful email platform built using Node and Redis~~
 - ~~[09/05/2023] Implementing a common lisp interpreter within common lisp, [check it out](https://github.com/aadv1k/lisp-in-lisp)~~
-- ~~[20/04/2023] Working on [propelr](https://github.com/aadv1k/propelr), a web scraping platform built on top of [DracoQL](https://github.com/aadv1k/dracoql]~~
+- ~~[20/04/2023] Working on [propelr](https://github.com/aadv1k/propelr), a web scraping platform built on top of [DracoQL](https://github.com/aadv1k/dracoql)~~
 - ~~[14/04/2023] Working on [DracoQL](https://github.com/aadv1k/dracoql) An embeddable query language to fetch and manipulate data~~Fi
 - ~~[03/04/2023] Working on [Quillia](https://github.com/aadv1k/quillia) , an EBook publising tool/platform that uses RSA encryption to issue/lend EBooks.~~
 - ~~[29/03/2023] Working on [HashWizard](https://github.com/aadv1k/hashwizard) a suite of tools and APIs to interact with cryptographic hashes~~

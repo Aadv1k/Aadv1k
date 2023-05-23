@@ -12,6 +12,7 @@
 
 ### Logs
 
+- ~~[22/05/2023] Built a compreshensive GraphQL Backend [for a survey application](https://github.com/aadv1k/litsurveys)~~
 - ~~[11/05/2023] Building [ZapMail](https://github.com/aadv1k/zap) a simple yet powerful email platform built using Node and Redis~~
 - ~~[09/05/2023] Implementing a common lisp interpreter within common lisp, [check it out](https://github.com/aadv1k/lisp-in-lisp)~~
 - ~~[20/04/2023] Working on [propelr](https://github.com/aadv1k/propelr), a web scraping platform built on top of [DracoQL](https://github.com/aadv1k/dracoql)~~

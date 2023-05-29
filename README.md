@@ -12,6 +12,7 @@
 
 ### Logs
 
+- ~~[25/05/2023] Built [beaver](https://github.com/aadv1k/beaver) a data analysis library using LISP~~
 - ~~[22/05/2023] Built a compreshensive GraphQL Backend [for a survey application](https://github.com/aadv1k/litsurveys)~~
 - ~~[11/05/2023] Building [ZapMail](https://github.com/aadv1k/zap) a simple yet powerful email platform built using Node and Redis~~
 - ~~[09/05/2023] Implementing a common lisp interpreter within common lisp, [check it out](https://github.com/aadv1k/lisp-in-lisp)~~

@@ -1,23 +1,39 @@
 ```
-     __              __        __                     __
- ___/ /__    _    __/ /  ___ _/ /_  __ _____  __ __  / /__ _  _____
-/ _  / _ \  | |/|/ / _ \/ _ `/ __/ / // / _ \/ // / / / _ \ |/ / -_)
-\_,_/\___/  |__,__/_//_/\_,_/\__/  \_, /\___/\_,_/ /_/\___/___/\__/
-                                  /___/
+   ______                             ___
+  / ____/___ __________  ___     ____/ (_)__  ____ ___
+ / /   / __ `/ ___/ __ \/ _ \   / __  / / _ \/ __ `__ \
+/ /___/ /_/ / /  / /_/ /  __/  / /_/ / /  __/ / / / / /
+\____/\__,_/_/  / .___/\___/   \__,_/_/\___/_/ /_/ /_/
+               /_/                         /___/
 ```
 
 - Building software that reads like an epic and runs like a TESLA.
 - Occasionally writing stories or blogs at [aadv1k.netlify.app](http://aadv1k.netlify.app/)
-- Breaking shit until it works
+- Writing code a 5 y.o can read (63.5% GPT approved)
+
+### Wonderlist
+
+These are my future planned (and unplanned) projects, TODOs etc which are relevent to my github
+
+- [ ] A chess engine built using C++, this will include
+     - a chess [Algebraic Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) parser to be able to "load" games
+     - some kind of pluggable interface to be able to interact with the board
+     - (?) An algorithmic next move suggester
+     - (?) Algorithmic opponent
+- [ ] A better attempt at the lisp interpreter written in common lisp
+     - Actually make use of the CAR and CDR structure
+     - Faster tokenization using the [alexandira library](https://alexandria.common-lisp.dev/)
+     - Introduce some kind of <abbr title="foreign function interface">FFI</abbr> with C
+     - Introduce a SAFE eval mode
 
 ### Logs
 
-- ~~[09/05/2023] Built [BuildYourOwnData](https://github.com/aadv1k/byod) a dataset search engine and aggregator tool~~
-- ~~[25/05/2023] Built [beaver](https://github.com/aadv1k/beaver) a data analysis library using LISP~~
-- ~~[22/05/2023] Built a compreshensive GraphQL Backend [for a survey application](https://github.com/aadv1k/litsurveys)~~
-- ~~[11/05/2023] Building [ZapMail](https://github.com/aadv1k/zap) a simple yet powerful email platform built using Node and Redis~~
-- ~~[09/05/2023] Implementing a common lisp interpreter within common lisp, [check it out](https://github.com/aadv1k/lisp-in-lisp)~~
-- ~~[20/04/2023] Working on [propelr](https://github.com/aadv1k/propelr), a web scraping platform built on top of [DracoQL](https://github.com/aadv1k/dracoql)~~
+- [09/05/2023] Built [BuildYourOwnData](https://github.com/aadv1k/byod) a dataset search engine and aggregator tool
+- [25/05/2023] Built [Beaver](https://github.com/aadv1k/beaver) a data analysis library using LISP
+- [22/05/2023] Built a compreshensive GraphQL Backend [for a survey application](https://github.com/aadv1k/litsurveys)
+- [11/05/2023] Building [ZapMail](https://github.com/aadv1k/zap) a simple yet powerful email platform built using Node and Redis
+- [09/05/2023] Implementing a common lisp interpreter within common lisp, [check it out](https://github.com/aadv1k/lisp-in-lisp)
+- [20/04/2023] Working on [propelr](https://github.com/aadv1k/propelr), a web scraping platform built on top of [DracoQL](https://github.com/aadv1k/dracoql)
 - ~~[14/04/2023] Working on [DracoQL](https://github.com/aadv1k/dracoql) An embeddable query language to fetch and manipulate data~~Fi
 - ~~[03/04/2023] Working on [Quillia](https://github.com/aadv1k/quillia) , an EBook publising tool/platform that uses RSA encryption to issue/lend EBooks.~~
 - ~~[29/03/2023] Working on [HashWizard](https://github.com/aadv1k/hashwizard) a suite of tools and APIs to interact with cryptographic hashes~~

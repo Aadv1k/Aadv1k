@@ -15,7 +15,7 @@
 
 These are my future planned (and unplanned) projects, TODOs etc which are relevent to my github
 
-- [ ] A chess engine built using C++, this will include
+- [ ] **IN-PROG** [Chex](https://github.com/aadv1k/chex): a chess engine built using C++
      - a chess [Algebraic Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) parser to be able to "load" games
      - some kind of pluggable interface to be able to interact with the board
      - (?) An algorithmic next move suggester

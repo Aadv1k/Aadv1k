@@ -20,11 +20,9 @@ These are my future planned (and unplanned) projects, TODOs etc which are releve
      - some kind of pluggable interface to be able to interact with the board
      - (?) An algorithmic next move suggester
      - (?) Algorithmic opponent
-- [ ] A better attempt at the lisp interpreter written in common lisp
-     - Actually make use of the CAR and CDR structure
-     - Faster tokenization using the [alexandira library](https://alexandria.common-lisp.dev/)
-     - Introduce some kind of <abbr title="foreign function interface">FFI</abbr> with C
-     - Introduce a SAFE eval mode
+- **TODO** polishing and fininishing many of the left/abandoned projects
+  - proper documentation for [BuildYourOwnData](https://github.com/aadv1k/byod) and implementing a lot of the missing functionality
+  - documentation for propelr and a note on how it works 
 
 ### Logs
 

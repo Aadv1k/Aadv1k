@@ -15,17 +15,15 @@
 
 These are my future planned (and unplanned) projects, TODOs etc which are relevent to my github
 
-- [ ] **IN-PROG** [Chex](https://github.com/aadv1k/chex): a chess engine built using C++
-     - a chess [Algebraic Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) parser to be able to "load" games
-     - some kind of pluggable interface to be able to interact with the board
-     - (?) An algorithmic next move suggester
-     - (?) Algorithmic opponent
 - **TODO** polishing and fininishing many of the left/abandoned projects
   - proper documentation for [BuildYourOwnData](https://github.com/aadv1k/byod) and implementing a lot of the missing functionality
   - documentation for propelr and a note on how it works 
 
 ### Logs
 
+- [24/06/2023] [Chex](https://github.com/aadv1k/chex): a chess engine built using C++
+       - some kind of pluggable interface to be able to interact with the board
+       - a chess [Algebraic Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) parser to be able to "load" games
 - [09/05/2023] Built [BuildYourOwnData](https://github.com/aadv1k/byod) a dataset search engine and aggregator tool
 - [25/05/2023] Built [Beaver](https://github.com/aadv1k/beaver) a data analysis library using LISP
 - [22/05/2023] Built a compreshensive GraphQL Backend [for a survey application](https://github.com/aadv1k/litsurveys)

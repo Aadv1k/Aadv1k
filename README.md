@@ -1,29 +1,22 @@
 ```
-   ______                             ___
-  / ____/___ __________  ___     ____/ (_)__  ____ ___
- / /   / __ `/ ___/ __ \/ _ \   / __  / / _ \/ __ `__ \
-/ /___/ /_/ / /  / /_/ /  __/  / /_/ / /  __/ / / / / /
-\____/\__,_/_/  / .___/\___/   \__,_/_/\___/_/ /_/ /_/
-               /_/                         /___/
+       __                             _       __    __           __  __    _ 
+  ____/ /___ _________     ____ ___  (_)___ _/ /_  / /___  __   / /_/ /_  (_)___  ____ ______
+ / __  / __ `/ ___/ _ \   / __ `__ \/ / __ `/ __ \/ __/ / / /  / __/ __ \/ / __ \/ __ `/ ___/
+/ /_/ / /_/ / /  /  __/  / / / / / / / /_/ / / / / /_/ /_/ /  / /_/ / / / / / / / /_/ (__  ) 
+\__,_/\__,_/_/   \___/  /_/ /_/ /_/_/\__, /_/ /_/\__/\__, /   \__/_/ /_/_/_/ /_/\__, /____/
+                                    /____/          /____/                     /____/
+                                    
 ```
 
-- Building software that reads like an epic and runs like a TESLA.
-- Occasionally writing stories or blogs at [aadv1k.netlify.app](http://aadv1k.netlify.app/)
-- Writing code a 5 y.o can read (63.5% GPT approved)
+Hi I am Aadvik, obsessed with tech (fueled by a nice cup of coffee ☕), my current obsessions include **Web Development** and **Low-Level Systems**, I also muse on my corner on the web -- [Aadvik's WICKED blog](https://aadv1k.netlify.app/), feel free to say hi via [@aadv1k](https://twitter.com/aadv1k) or [email](mailto:aadv1k@outlook.com).
 
 ### Wonderlist
 
 These are my future planned (and unplanned) projects, TODOs etc which are relevent to my github
 
-- **TODO** polishing and fininishing many of the left/abandoned projects
-  - proper documentation for [BuildYourOwnData](https://github.com/aadv1k/byod) and implementing a lot of the missing functionality
-  - documentation for propelr and a note on how it works 
-
 ### Logs
 
-- [24/06/2023] [Chex](https://github.com/aadv1k/chex): a chess engine built using C++
-       - some kind of pluggable interface to be able to interact with the board
-       - a chess [Algebraic Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)) parser to be able to "load" games
+- [24/06/2023] [Chex](https://github.com/aadv1k/chex) a chess engine (and interactable game) built using C++
 - [09/05/2023] Built [BuildYourOwnData](https://github.com/aadv1k/byod) a dataset search engine and aggregator tool
 - [25/05/2023] Built [Beaver](https://github.com/aadv1k/beaver) a data analysis library using LISP
 - [22/05/2023] Built a compreshensive GraphQL Backend [for a survey application](https://github.com/aadv1k/litsurveys)
@@ -53,8 +46,6 @@ These are my future planned (and unplanned) projects, TODOs etc which are releve
 - ~~Learning frontend technologies by build projects at [frontend-projects](https://github.com/aadv1k/frontend-projects)~~
 - Watching for issues/suggestions/discussions on all of my existing repos.
 
-### Contact
+I check my inbox often, so you can drop me an [Email]()
 
-I check my inbox often, so you can drop me an [Email](mailto:aadv1k@outlook.com)
-
-or you can reach out via twitter [@aadv1k](https://twitter.com/aadv1k), I don't check it often but would get back to you if I did.
+or you can reach out via , I don't check it often but would get back to you if I did.

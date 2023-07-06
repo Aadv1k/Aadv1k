@@ -5,10 +5,9 @@
 / /_/ / /_/ / /  /  __/  / / / / / / / /_/ / / / / /_/ /_/ /  / /_/ / / / / / / / /_/ (__  ) 
 \__,_/\__,_/_/   \___/  /_/ /_/ /_/_/\__, /_/ /_/\__/\__, /   \__/_/ /_/_/_/ /_/\__, /____/
                                     /____/          /____/                     /____/
-                                    
 ```
 
-Hi I am Aadvik, obsessed with tech (fueled by a nice cup of coffee ☕), my current obsessions include **Web Development** and **Low-Level Systems**, I also muse on my corner on the web -- [Aadvik's WICKED blog](https://aadv1k.netlify.app/), feel free to say hi via [@aadv1k](https://twitter.com/aadv1k) or [email](mailto:aadv1k@outlook.com).
+Hi i am aadvik and I am passionate about **Tech** (fueled by a nice cup of latte ☕). My current obsessions revolve around **Web Development** and **Low-Level systems**. I also occsionaly write at -- [aadvik's wicked blog](https://aadv1k.netlify.app/), feel free to reach out and say hi via [@aadv1k](https://twitter.com/aadv1k) or [email](mailto:aadv1k@outlook.com).
 
 ### Wonderlist
 
@@ -45,7 +44,3 @@ These are my future planned (and unplanned) projects, TODOs etc which are releve
   - Built [md2html](https://github.com/Aadv1k/kevlar/releases/tag/v2.0.1) which is a simple yet powerful markdown parser from scratch
 - ~~Learning frontend technologies by build projects at [frontend-projects](https://github.com/aadv1k/frontend-projects)~~
 - Watching for issues/suggestions/discussions on all of my existing repos.
-
-I check my inbox often, so you can drop me an [Email]()
-
-or you can reach out via , I don't check it often but would get back to you if I did.

@@ -15,6 +15,17 @@ I also occsionaly write at -- [aadvik's wicked blog](https://aadv1k.netlify.app/
 
 These are my future planned (and unplanned) projects, TODOs etc which are relevent to my github
 
+- *IN-PROG* A **Experimental** computer vision library in C
+ - Simple image filters
+ - Object detection systems without ML (?)
+ - Depth map generation from stereo image
+
+- An Open Source, CV-AS-A-SERVICE
+  - A pluggable service which provides depth map generation
+  - allows IO w/ stereo images and videos
+  - An (Open Source) Real estate app with rich auto-generated "tours"
+  
+
 ### Logs
 
 - [24/06/2023] [Chex](https://github.com/aadv1k/chex) a chess engine (and interactable game) built using C++

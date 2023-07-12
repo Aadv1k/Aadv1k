@@ -15,10 +15,10 @@ I also occsionaly write at -- [aadvik's wicked blog](https://aadv1k.netlify.app/
 
 These are my future planned (and unplanned) projects, TODOs etc which are relevent to my github
 
-- *IN-PROG* A **Experimental** computer vision library in C
- - Simple image filters
- - Object detection systems without ML (?)
- - Depth map generation from stereo image
+- *IN-PROG* [An **Experimental** computer vision library](https://github.com/aadv1k/cv.c) in C 
+  - Simple image filters
+  - Object detection systems without ML (?)
+  - Depth map generation from stereo image
 
 - An Open Source, CV-AS-A-SERVICE
   - A pluggable service which provides depth map generation

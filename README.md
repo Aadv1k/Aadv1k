@@ -9,22 +9,16 @@
 
 Hi i am aadvik and I am passionate about **Tech** especially fueled by a nice cup of latte ☕. My current obsessions revolve around **Web Development** and **Low-Level systems**. 
 
-I also occsionaly write at -- [aadvik's wicked blog](https://aadv1k.netlify.app/), feel free to reach out and say hi via [@aadv1k](https://twitter.com/aadv1k) or [email](mailto:aadv1k@outlook.com).
+I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/), feel free to reach out and say hi via [@aadv1k](https://twitter.com/aadv1k) or [email](mailto:aadv1k@outlook.com).
 
 ### Wonderlist
 
 These are my future planned (and unplanned) projects, TODOs etc which are relevent to my github
 
-- *IN-PROG* [An **Experimental** computer vision library](https://github.com/aadv1k/cv.c) in C 
-  - Simple image filters
-  - Object detection systems without ML (?)
-  - Depth map generation from stereo image
-
-- An Open Source, CV-AS-A-SERVICE
-  - A pluggable service which provides depth map generation
-  - allows IO w/ stereo images and videos
-  - An (Open Source) Real estate app with rich auto-generated "tours"
-  
+- **IN-PROG** [An **Experimental** computer vision library](https://github.com/aadv1k/cv.c) in C 
+  - Understanding Computer Vision in depth
+  - Implementing an essential CV toolkit, inspired by OpenCV
+  - Writing a [Computer Vision Guide](https://aadv1k.gitbook.io/cv-guide) alongside for future reference 
 
 ### Logs
 
@@ -59,4 +53,5 @@ These are my future planned (and unplanned) projects, TODOs etc which are releve
   - Built the [kevlar templating engine](https://github.com/Aadv1k/kevlar#templating) from scratch
   - Built [md2html](https://github.com/Aadv1k/kevlar/releases/tag/v2.0.1) which is a simple yet powerful markdown parser from scratch
 - ~~Learning frontend technologies by build projects at [frontend-projects](https://github.com/aadv1k/frontend-projects)~~
+
 - Watching for issues/suggestions/discussions on all of my existing repos.

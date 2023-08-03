@@ -1,6 +1,6 @@
 ```
 Entrepreneur’s mind. Athlete’s body. Artist’s soul.
-~ James Clear
+  ~ James Clear
 ```
 
 Hey, this is Aadvik! I primarily do **Tech** (good cup of latte ☕). Currently I am working with **Web Development** and **Computer Vision**. I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/).
@@ -9,10 +9,11 @@ Feel free to reach out and say hi via [email](mailto:aadv1k@outlook.com)
 
 ## now
 
-- Messing around with Wasm and CV by building [a web-based document scanner](https://github.com/aadv1k/deimos) 
-- Building an [experimental Computer Vision library](https://github.com/aadv1k/deimos) in C
-- Writing a [Computer Vision Guide](https://aadv1k.gitbook.io/cv-guide) alongside for future reference 
+I am trying to get good at Computer Vision (and Web Dev); This is how
 
+- Building an [experimental Computer Vision library](https://github.com/aadv1k/deimos) in C
+- Messing around with WebAssembly and CV by building [a web-based document scanner](https://github.com/aadv1k/deimos) 
+- Writing a [Computer Vision Guide](https://aadv1k.gitbook.io/cv-guide) alongside for future reference
 
 ## future
 

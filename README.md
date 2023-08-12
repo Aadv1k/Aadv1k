@@ -12,26 +12,32 @@ Feel free to reach out and say hi via [email](mailto:aadv1k@outlook.com)
 I am trying to get good at Computer Vision (and Web Dev); This is how
 
 - Building an [experimental Computer Vision library](https://github.com/aadv1k/deimos) in C
-- Messing around with WebAssembly and CV by building [a web-based document scanner](https://github.com/aadv1k/deimos) 
+- Messing around with WebAssembly and CV by building [a web-based document scanner](https://github.com/aadv1k/quickdoc) 
 - Writing a [Computer Vision Guide](https://aadv1k.gitbook.io/cv-guide) alongside for future reference
-
-## future
-
-- (?) Creating 3D enviroments from stero scans of the enviorment
-- (?) Using generative AI to fill in gaps of 3D enviroments
+- [Header only implenentation](https://github.com/aadv1k/swt) for Stroke Width Transform (SWT)
 
 ## past
 
-- [24/06/2023] Learnt C++ by building a [chex; a simple chess engine](https://github.com/aadv1k/chex)
-- [09/05/2023] Did some token based NLP stuff in [@byod/dork](https://github.com/aadv1k/byod/tree/main/dork)
-- ~~[5/05/2023] messed around with lisp via [beaver](https://github.com/aadv1k/beaver), will do more~~
-- [22/05/2023] Finally tried out GraphQL by implementing it [in a survey application](https://github.com/aadv1k/litsurveys)
-- [20/04/2023] Pursued an idea for a web scraping platform [propelr](https://github.com/aadv1k/propelr) built on top of [DracoQL](https://github.com/aadv1k/dracoql). Didn't work out but learnt a lot about building decent [backend systems](https://github.com/aadv1k/propelr/tree/main/packages/backend) 
-- [14/04/2023] Wrote [DracoQL](https://github.com/aadv1k/dracoql) a domain specific language with an AST and Tokenizer, Learnt a lot about writing interpreters 
-- [29/03/2023] Built [HashWizard](https://github.com/aadv1k/hashwizard) to mess around with rainbow tables. Had to work with a free quota of 512 mb, it was fun
-- Solving Advent of code 2022 in C 🎄💻
-- [11/09/2022] Wrote [kevlar](https://github.com/aadv1k/kevlar) a **static-site generator** using pure C.
-  - Built a [`.ini` parser](https://github.com/Aadv1k/kevlar#config) from scratch
-  - Built the [kevlar templating engine](https://github.com/Aadv1k/kevlar#templating) from scratch
-  - Built [md2html](https://github.com/Aadv1k/kevlar/releases/tag/v2.0.1) which is a simple yet powerful markdown parser from scratch
-- ~~Learning frontend technologies by build projects at [frontend-projects](https://github.com/aadv1k/frontend-projects)~~
+Here are some of my notable projects
+
+- I maintain a monorepo of [frontend-projects](https://github.com/aadv1k/frontend-projects), these are implementations of various designs from across the web, the tech-stack ranges from Webpack w/ Vanilla JS, to full-on React apps.
+
+- [24/06/2023] [Chex](https://github.com/aadv1k/chex) is a simple chess engine, that offers a web + console UI, which I wrote to mess around with C++ and some of the [design patterns](https://refactoring.guru/design-patterns) I had been studying
+
+- [09/05/2023] Wrote a search query parser [@byod/dork](https://github.com/aadv1k/byod/tree/main/dork) similar to what search engines use; it primarily srves to remove filler words and distill the language into one which is more deterministic.
+
+- [14/04/2023] [DracoQL](https://github.com/aadv1k/dracoql) is a DSL (Domain specific language) in TypeScript comprising of an AST built upon a rudimentary tokenizer. The AST is interpreted by the JS and the results are either piped into the namespace (which is really just a Map) or to the `stdout`.
+
+- [15/12/2022] 🎄 [Advent of Code in C](https://github.com/Aadv1k/AdventOfC2022)
+
+- [11/09/2022] Wrote [kevlar](https://github.com/aadv1k/kevlar) a **static-site generator** using pure C, this project comprises of several smaller chunks, each built from scratch
+  - A minimal and fast markdown parser, which you can download -> [md2html](https://github.com/Aadv1k/kevlar/releases/tag/v2.0.1)
+  - A non-spec [`.ini` parser](https://github.com/Aadv1k/kevlar#config)
+  - The [Kevlar templating engine](https://github.com/Aadv1k/kevlar#templating), heavily inspired from hugo
+  - The [default kevlar theme](https://github.com/Aadv1k/listed-kevlar-theme)
+
+- [17/02/2022] [Gdoc.vim](https://github.com/aadv1k/gdoc.vim) is a plugin provides google docs integration for the Vim editor, it supports all the CRUD operations from a editor first approach.
+
+- [24/12/2021] [Advent of Code in Lua](https://github.com/Aadv1k/AdventOfLua2021)
+
+- [05/10/2021] Reverse engineered and [wrote a wrapper](https://github.com/Aadv1k/schoolOS-api-wrapper) for SchoolOS, which at the time was the site being used by my school for online classes.

@@ -9,10 +9,10 @@ Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup o
 
 I am trying to get good at Computer Vision (and Web Dev); This is how
 
-- Building an [experimental Computer Vision library](https://github.com/aadv1k/deimos) in C
+- [swt.h](https://github.com/aadv1k/swt) is a header-only, zero-dependency implementation for Stroke Width Transform, which allows for text extraction from scenes
 - Messing around with WebAssembly and CV by building [a web-based document scanner](https://github.com/aadv1k/quickdoc) 
+- Building an [experimental Computer Vision library](https://github.com/aadv1k/deimos) in C
 - Writing a [Computer Vision Guide](https://aadv1k.gitbook.io/cv-guide) alongside for future reference
-- [Header only implementation](https://github.com/aadv1k/swt) for Stroke Width Transform (SWT)
 
 ## Past
 
@@ -21,6 +21,8 @@ Here are some of my notable projects
 I maintain a monorepo of [frontend-projects](https://github.com/aadv1k/frontend-projects), these are implementations of various designs from across the web, the tech-stack ranges from Webpack w/ Vanilla JS, to full-on React apps.
 
 **24/06/2023** [Chex](https://github.com/aadv1k/chex) is a simple chess engine, that offers a web + console UI, which I wrote to mess around with C++ and some of the [design patterns](https://refactoring.guru/design-patterns) I had been studying
+
+**24/04/2023** [Beaver](https://github.com/aadv1k/beaver) is a CSV data manipulation library written in [Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp)
 
 **09/05/2023** Wrote a search query parser [@byod/dork](https://github.com/aadv1k/byod/tree/main/dork) similar to what search engines use; it primarily srves to remove filler words and distill the language into one which is more deterministic.
 

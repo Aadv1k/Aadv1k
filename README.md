@@ -9,6 +9,7 @@ Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup o
 
 I am trying to get good at Computer Vision (and Web Dev); This is how
 
+- [Octet](https://github.com/aadv1k/octet) is an attempt at building an OCR model (and data preparation system) in C. This will work in tandem with my recent projects 
 - [swt.h](https://github.com/aadv1k/swt) is a header-only, zero-dependency implementation for Stroke Width Transform, which allows for text extraction from scenes
 - Messing around with WebAssembly and CV by building [a web-based document scanner](https://github.com/aadv1k/quickdoc) 
 - Building an [experimental Computer Vision library](https://github.com/aadv1k/deimos) in C

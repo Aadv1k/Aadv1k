@@ -7,19 +7,19 @@ Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup o
 
 ## Now
 
-I am trying to get good at Computer Vision (and Web Dev); This is how
-
-- [Octet](https://github.com/aadv1k/octet) is an attempt at building an OCR model (and data preparation system) in C. This will work in tandem with my recent projects 
-- [swt.h](https://github.com/aadv1k/swt) is a header-only, zero-dependency implementation for Stroke Width Transform, which allows for text extraction from scenes
-- Messing around with WebAssembly and CV by building [a web-based document scanner](https://github.com/aadv1k/quickdoc) 
-- Building an [experimental Computer Vision library](https://github.com/aadv1k/deimos) in C
-- Writing a [Computer Vision Guide](https://aadv1k.gitbook.io/cv-guide) alongside for future reference
+*what awaits?*
 
 ## Past
 
 Here are some of my notable projects
 
 I maintain a monorepo of [frontend-projects](https://github.com/aadv1k/frontend-projects), these are implementations of various designs from across the web, the tech-stack ranges from Webpack w/ Vanilla JS, to full-on React apps.
+
+**18/08/2023** [OctetOCR](https://github.com/aadv1k/octet) is a rather simple OCR model (and data preparation system) in C which uses [KNN](https://www.ibm.com/topics/knn) algorithm to approximate an input image with it's labeled training data
+
+**11/08/2023** [swt.h](https://github.com/aadv1k/swt) is a header-only, zero-dependency implementation for Stroke Width Transform, which allows for text extraction from scenes
+
+**10/07/2023** I wrote a [Computer Vision Guide](https://aadv1k.gitbook.io/cv-guide) that documents much of the functions, and techniques I learn about Computer Vision while building [Deimos](https://github.com/aadv1k/deimos) (which is a CV library in C)
 
 **24/06/2023** [Chex](https://github.com/aadv1k/chex) is a simple chess engine, that offers a web + console UI, which I wrote to mess around with C++ and some of the [design patterns](https://refactoring.guru/design-patterns) I had been studying
 

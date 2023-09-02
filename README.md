@@ -7,7 +7,7 @@ Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup o
 
 ## Now
 
-*what awaits?*
+Working on an idea for a service. It allows you to submit a video of an enviorment from a camera, and have it be converted into a 3D explorable enviorment, currently private since I am chalking a lot of it out
 
 ## Past
 

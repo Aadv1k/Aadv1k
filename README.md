@@ -7,7 +7,7 @@ Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup o
 
 ## Now
 
-Working on an idea for a service. It allows you to submit a video of an enviorment from a camera, and have it be converted into a 3D explorable enviorment, currently private since I am chalking a lot of it out
+Working on [NewsMan](https://github.com/aadv1k/NewsMan) an experimental approach to developing a modular, self-hosted News API
 
 ## Past
 
@@ -42,6 +42,11 @@ I maintain a monorepo of [frontend-projects](https://github.com/aadv1k/frontend-
 **24/12/2021** [Advent of Code in Lua](https://github.com/Aadv1k/AdventOfLua2021)
 
 **05/10/2021** Reverse engineered and [wrote a wrapper](https://github.com/Aadv1k/schoolOS-api-wrapper) for [SchoolOS](https://www.getschoolos.com/), which at the time was the site being used by my school for online classes.
+
+## Future
+
+- Advent of code 2023 in (Rust/Go/Lisp/Haskell)?
+
 
 ## Connect
 

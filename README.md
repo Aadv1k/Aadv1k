@@ -5,15 +5,10 @@ Entrepreneur’s mind. Athlete’s body. Artist’s soul.
 
 Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup of latte ☕). Currently I am working with **Web Development** and **Computer Vision**. I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/).
 
-## Life update
-
-For the past two months, I have been stuck in the entrails of an uninspired, unmotivated rut; I started three projects, none of which I was able to conclude to a satisfactory degree. As with many things, this too was self-imposed, courtesy of the perfectionist and procrastinator in me engaged in a dance of starting a project, being dissatisfied with an aspect of it, starting over, or trying to rebuild another aspect of it. 'Recursive Hell' is a term I coin for such ruts; you start a project with some ambition for it, get stuck on some aspect, and then decide to tackle another ambitious task to overhaul that 'aspect' of it. This way, each task spawns another drain, another rabbit hole
-
-What's next for me? I've decided to take a break from the vicious cycle of attempting to work, getting distracted, and inevitably wasting time doomscrolling the internet. Instead, I plan to read-up on some books, practice mindfulness, and eagerly await Advent Of Code 2023, an yearly  event in my ongoing love affair with programming.
-
 ## Now
 
-Planning stuff, archiving and wrapping up past baggage.   
+- Doing [Advent of Code in Go](https://github.com/Aadv1k/AdventOfGo2023)
+- Getting a bunch of certifications, including [freeCodeCamp](https://github.com/aadv1k/freecodecamp) and [cs50](https://github.com/aadv1k/cs50)
 
 ## Past
 

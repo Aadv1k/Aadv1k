@@ -1,18 +1,19 @@
 ```
-Entrepreneur’s mind. Athlete’s body. Artist’s soul.
-  ~ James Clear
+The suppression of uncomfortable ideas may be common in religion and politics, however it is not the path to knowledge.
+  ~ Carl Sagan
 ```
 
-Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup of latte ☕). Currently I am working with **Web Development** and **Computer Vision**. I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/).
+Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup of latte ☕). I primarily do stuff including, but not limited to the world wide web. I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/).
 
 ## Now
 
-- Doing [Advent of Code in Go](https://github.com/Aadv1k/AdventOfGo2023)
-- Getting a bunch of certifications, including [freeCodeCamp](https://github.com/aadv1k/freecodecamp) and [cs50](https://github.com/aadv1k/cs50)
+*Brainstorming*
 
 ## Past
 
-Here are some of my notable projects
+Here are some of my notable projects of 2023, many have been concluded, others will continue updates-on-demand.
+
+**21/12/2023** Doing [Advent of Code in Go](https://github.com/Aadv1k/AdventOfGo2023)
 
 I maintain a monorepo of [frontend-projects](https://github.com/aadv1k/frontend-projects), these are implementations of various designs from across the web, the tech-stack ranges from Webpack w/ Vanilla JS, to full-on React apps.
 
@@ -43,11 +44,6 @@ I maintain a monorepo of [frontend-projects](https://github.com/aadv1k/frontend-
 **24/12/2021** [Advent of Code in Lua](https://github.com/Aadv1k/AdventOfLua2021)
 
 **05/10/2021** Reverse engineered and [wrote a wrapper](https://github.com/Aadv1k/schoolOS-api-wrapper) for [SchoolOS](https://www.getschoolos.com/), which at the time was the site being used by my school for online classes.
-
-## Future
-
-- Advent of code 2023 in (Rust/Go/Lisp/Haskell)?
-
 
 ## Connect
 

@@ -7,7 +7,7 @@ Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup o
 
 ## Now
 
-*Brainstorming*
+Doing [CS50](https://github.com/aadv1k/cs50)
 
 ## Past
 

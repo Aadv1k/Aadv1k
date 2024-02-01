@@ -7,11 +7,17 @@ Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup o
 
 ## Now
 
-Doing [CS50](https://github.com/aadv1k/cs50)
+Brainstorming!
 
 ## Past
 
-Here are some of my notable projects of 2023, many have been concluded, others will continue updates-on-demand.
+- **31/01/2024**: [Finished CS50 Web, CS50 Python and CS50 Web](https://github.com/aadv1k/cs50)
+- Built [API wrapper for PracticallyOS](https://github.com/aadv1k/practically-api-wrapper) which is used by my schools for assignments and classes
+- Built [Cache it Pls!](https://github.com/aadv1k/cache-it-pls) as my first experimentation with Django
+
+### 2023
+
+(These projects aren't abandoned, I will continue to add stuff if I find it worthwhile)
 
 **21/12/2023** Doing [Advent of Code in Go](https://github.com/Aadv1k/AdventOfGo2023)
 
@@ -30,6 +36,8 @@ I maintain a monorepo of [frontend-projects](https://github.com/aadv1k/frontend-
 **09/05/2023** Wrote a search query parser [@byod/dork](https://github.com/aadv1k/byod/tree/main/dork) similar to what search engines use; it primarily srves to remove filler words and distill the language into one which is more deterministic.
 
 **14/04/2023** [DracoQL](https://github.com/aadv1k/dracoql) is a DSL (Domain specific language) in TypeScript comprising of an AST built upon a rudimentary tokenizer. The AST is interpreted by the JS and the results are either piped into the namespace (which is really just a Map) or to the `stdout`.
+
+### 2022
 
 **15/12/2022** 🎄 [Advent of Code in C](https://github.com/Aadv1k/AdventOfC2022)
 

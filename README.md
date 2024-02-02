@@ -1,13 +1,4 @@
-```
-The suppression of uncomfortable ideas may be common in religion and politics, however it is not the path to knowledge.
-  ~ Carl Sagan
-```
-
 Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup of latte ☕). I primarily do stuff including, but not limited to the world wide web. I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/).
-
-## Now
-
-Brainstorming!
 
 ## Past
 

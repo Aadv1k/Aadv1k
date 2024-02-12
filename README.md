@@ -1,5 +1,9 @@
 Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup of latte ☕). I primarily do stuff including, but not limited to the world wide web. I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/).
 
+## Now
+
+Building a SaaS to build MockAPIs; Currently private, Will be made public at the initial relase. The tech-stack is Django + Python 3.11 / Bootstrap 5 + Vanilla 
+
 ## Past
 
 - **31/01/2024**: [Finished CS50 Web, CS50 Python and CS50 Web](https://github.com/aadv1k/cs50)

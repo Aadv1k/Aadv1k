@@ -2,7 +2,11 @@ Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup o
 
 ## Now
 
-Building a SaaS to build MockAPIs; Currently private, Will be made public at the initial relase. The tech-stack is Django + Python 3.11 / Bootstrap 5 + Vanilla 
+[Re-Thinking a lot of stuff](./rethinking-2024-02.txt)
+
+- Building a SaaS to build MockAPIs; Currently private, Will be made public at the initial relase. The tech-stack is Django + Python 3.11 / Bootstrap 5 + Vanilla 
+
+- Working on a new [Kevlar](https://github.com/aadv1k/kevlar) release. I will be starting a new, and improved blog.
 
 ## Past
 

@@ -1,0 +1,7 @@
+When I first stepped into tech, it was different, a lot quiter and a lot less crowded, 2019 was a time when tech was a still a niche that only some odd individuals chose to do, consequently, the industry as a whole was a lot less demanding. The cynicism is not what I intend to highlight, but rather, it is simply not enough for you to just get-by being a "Web Developer" with a generic stack, to someone more experienced than i am this might be obvious, but for me this idea is still new.
+
+So what? Software had never been easy, but the gates are flung so wide open, that on one end people like the 13 year old me could enter and even hope to make a career out of it, but on the other saturation is at its peak. As the bell-graph goes, the software development + web development space is at the midpoint, these jobs are simply flooded by talents varying from fraud to exceptional.
+
+What it means for me? The web-space is not enough, I need to, live-up-to the name "engineer" that mainstream tech-space has forgotten as of late. This means I will be dedicating a lot of enrgy in understand the maths, the hardware and the software with the abstractions peeled away.
+
+I write this message as what I would say to myself if I were wiser.

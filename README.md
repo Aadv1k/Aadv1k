@@ -4,9 +4,10 @@ Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup o
 
 [Re-Thinking a lot of stuff](./rethinking-2024-02.txt)
 
-- Building a SaaS to build MockAPIs; Currently private, Will be made public at the initial relase. The tech-stack is Django + Python 3.11 / Bootstrap 5 + Vanilla 
+- Messing around with graphs through [Giraffe](https://github.com/aadv1k/giraffe) my own experimental graph library.
 
-- Working on a new [Kevlar](https://github.com/aadv1k/kevlar) release. I will be starting a new, and improved blog.
+- **STASHED** ~~Building a SaaS to build MockAPIs; Currently private, Will be made public at the initial relase. The tech-stack is Django + Python 3.11 / Bootstrap 5 + Vanilla~~
+- **STASHED** ~~Working on a new [Kevlar](https://github.com/aadv1k/kevlar) release. I will be starting a new, and improved blog.~~
 
 ## Past
 

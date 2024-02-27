@@ -1,4 +1,4 @@
-Hey, this is Aadvik, I _really_ love writing code! (especially with a good cup of latte ☕). I primarily do stuff including, but not limited to the world wide web. I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/).
+Hey, this is Aadvik, and I love building stuff, including, but not limited to the world wide web or various other fields in CS. I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/).
 
 ## Now
 

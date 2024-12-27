@@ -2,18 +2,15 @@ Hey, this is Aadvik, and I love building stuff, including, but not limited to th
 
 ## Now
 
-[Re-Thinking a lot of stuff](./rethinking-2024-02.txt)
-
-- Messing around with graphs through [Giraffe](https://github.com/aadv1k/giraffe) my own experimental graph library.
-
-- **STASHED** ~~Building a SaaS to build MockAPIs; Currently private, Will be made public at the initial relase. The tech-stack is Django + Python 3.11 / Bootstrap 5 + Vanilla~~
-- **STASHED** ~~Working on a new [Kevlar](https://github.com/aadv1k/kevlar) release. I will be starting a new, and improved blog.~~
+A lot more to come!
 
 ## Past
 
+### 2024
+
+- **29/11/2024** Built [Varta](https://github.com/aadv1k/varta) a multi-channel school communications app for my own school.  Learnt app development, customer discovery, giving a good pitch and so much more, it became the biggest project i've done so far. 
+- **29/02/2024** learnt a lot about "graph theory" and built [Giraffe](https://github.com/aadv1k/giraffe) my own experimental graph library.
 - **31/01/2024**: [Finished CS50 Web, CS50 Python and CS50 Web](https://github.com/aadv1k/cs50)
-- Built [API wrapper for PracticallyOS](https://github.com/aadv1k/practically-api-wrapper) which is used by my schools for assignments and classes
-- Built [Cache it Pls!](https://github.com/aadv1k/cache-it-pls) as my first experimentation with Django
 
 ### 2023
 

@@ -1,8 +1,12 @@
 Hey, this is Aadvik, and I love building stuff, including, but not limited to the world wide web or various other fields in CS. I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/).
 
+## Should be
+
+- Programming every single day
+
 ## Now
 
-A lot more to come!
+- Working on an _awesome_ API mocking platform you'll get to see more of in the coming weeks!
 
 ## Past
 

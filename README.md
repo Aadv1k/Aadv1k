@@ -1,19 +1,27 @@
-Hey, this is Aadvik, and I love building stuff, including, but not limited to the world wide web or various other fields in CS. I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/).
+```
+   ______                      ____  _              
+  / ____/___ __________  ___  / __ \(_)__  ____ ___ 
+ / /   / __ `/ ___/ __ \/ _ \/ / / / / _ \/ __ `__ \
+/ /___/ /_/ / /  / /_/ /  __/ /_/ / /  __/ / / / / /
+\____/\__,_/_/  / .___/\___/_____/_/\___/_/ /_/ /_/ 
+               /_/                                  
+```
 
-## Should be
-
-- Programming every single day
+Hey, this is Aadvik, and I love building (and breaking) stuff (usually tech).  Currently I am involved in the web dev space, but you might find me doing anything from low-level C dev, to writing scripts to automate the _drudgerous_ parts of my life! I also occasionally write at [aadvik's wicked blog](https://aadv1k.netlify.app/). ( ask me how it's built :] )
 
 ## Now
 
-- Working on an _awesome_ API mocking platform you'll get to see more of in the coming weeks!
+Focusing _just a little bit™_ on college and academic work (but the programmer gears are still turning :] ) I have a lot of cool projects lined up and will be working on them very soon!
 
 ## Past
 
 ### 2024
 
-- **29/11/2024** Built [Varta](https://github.com/aadv1k/varta) a multi-channel school communications app for my own school.  Learnt app development, customer discovery, giving a good pitch and so much more, it became the biggest project i've done so far. 
+- **29/11/2024** Built [Varta](https://github.com/aadv1k/varta) a multi-channel school communications app for my own school. Learnt a whole lot of app dev (flutter/dart), building a great product, delivering a good pitch and SO much
+  more. This was one of my most exciting projects (so-far!)
+
 - **29/02/2024** learnt a lot about "graph theory" and built [Giraffe](https://github.com/aadv1k/giraffe) my own experimental graph library.
+
 - **31/01/2024**: [Finished CS50 Web, CS50 Python and CS50 Web](https://github.com/aadv1k/cs50)
 
 ### 2023

@@ -11,7 +11,9 @@ Hey, this is Aadvik, and I love building (and breaking) stuff (usually tech).  C
 
 ## Now
 
-- Doing [Advent of Code 2025 in C++](https://github.com/aadv1k/AdventOfCpp2025) 
+- Working on the V3 release of [kevlar](https://github.com/aadv1k/kevlar)
+
+- **08/12/2025** [Advent of Code 2025 in C++](https://github.com/aadv1k/AdventOfCpp2025) 
 
 - **24/09/2025** Built [sih-VanaRaj](https://github.com/aadv1k/sih-VanaRaj) our entry for SIH '25. This involved learning about GeoJSON and how WebGIS works, and a lot of manual data collection to build an interactive "atlas" for tribal people, hosted live at [sih.aadvikpandey.com](https://sih.aadvikpandey.com)
 

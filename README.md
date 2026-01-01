@@ -11,13 +11,17 @@ Hey, this is Aadvik, and I love building (and breaking) stuff (usually tech).  C
 
 ## Now
 
+- Working on the V3 of [kevlar](https://github.com/aadv1k/kevlar)
+
+## Past
+
+### 2025
+
 - **08/12/2025** Did [Advent of Code 2025 in C++](https://github.com/aadv1k/AdventOfCpp2025) 
 
 - **05/10/2025** Built [Biome](https://github.com/aadv1k/nasa-Biome) my solo-entry into NASA Space Apps hackathon; Here I built a (slighly overengineered) LLM-based ETL pipeline to process approx ~680 space biology research paper into quantified and structured JSON data for analysis. I then used this data-set to build a graph where clustering represented how semantically, categorically similar two papers were, the size of nodes showed how many citations have been made TO the paper. The data also includes the right fields and parameters to do a contradiction analysis, (given similar conditions and sample sizes, do the results match?)  and a lot more, which I was unable to truly justify due to the constrained time-limit.
 
 - **24/09/2025** Built [sih-VanaRaj](https://github.com/aadv1k/sih-VanaRaj) our entry for SIH '25. This involved learning about GeoJSON and how WebGIS works, and a lot of manual data collection to build an interactive "atlas" for tribal people, hosted live at [sih.aadvikpandey.com](https://sih.aadvikpandey.com)
-
-## Past
 
 ### 2024
 

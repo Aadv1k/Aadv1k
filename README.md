@@ -11,7 +11,7 @@ Hey, this is Aadvik, and I love building (and breaking) stuff (usually tech).  C
 
 ## Now
 
-- Building production retrieval systems with evals harnsesses at my day job
+- Building production retrieval systems, MCP suites & eval harnesses @ B2B Procurement SaaS
 - Working on Kepler, an agentic access management platform on the weekends
 - Rethinking the the V3 of [kevlar](https://github.com/aadv1k/kevlar)
 

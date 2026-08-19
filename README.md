@@ -11,7 +11,9 @@ Hey, this is Aadvik, and I love building (and breaking) stuff (usually tech).  C
 
 ## Now
 
-- Working on the V3 of [kevlar](https://github.com/aadv1k/kevlar)
+- Building production retrieval systems with evals harnsesses at my day job
+- Working on Kepler, an agentic access management platform on the weekends
+- Rethinking the the V3 of [kevlar](https://github.com/aadv1k/kevlar)
 
 ## Past
 
